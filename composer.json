@@ -1,0 +1,17 @@
+{
+  "name": "deevroman/template_telegram_bot",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "deevroman",
+      "email": "roman.deev06@gmail.com"
+    }
+  ],
+  "require": {
+    "irazasyed/telegram-bot-sdk": "^2.0",
+    "vlucas/phpdotenv": "^5.1",
+    "guzzlehttp/guzzle": "7.0.1"
+  }
+}
